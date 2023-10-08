@@ -11,4 +11,5 @@
  - Installieren Sie den Kubernetes-Client für Python mit pip, indem Sie folgenden Befehl verwenden: pip install kubernetes
  - Kubectl-CLI zum Überprüfen der Ressourcen
  
- 
+
+  © Gildas NG.
